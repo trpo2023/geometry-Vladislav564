@@ -1,0 +1,4 @@
+geometry
+*.o
+.geometry.c.swp
+geometry.c~
